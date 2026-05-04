@@ -1,0 +1,10 @@
+commit
+
+Un commit es como tomar una foto del estado actual del proyecto en un momento específico. Guarda los cambios realizados junto con un mensaje que explica qué se hizo. Esto ayuda a llevar un registro ordenado y permite volver a versiones anteriores si algo sale mal.
+
+Repositorio
+Un repositorio es el lugar donde se almacena todo el proyecto: archivos, carpetas y su historial de cambios. Funciona como una carpeta inteligente que guarda cada versión del trabajo. Permite organizar, compartir y trabajar en equipo sin perder información importante.
+
+Push
+
+Push es la acción de enviar los commits desde tu computador al repositorio remoto en GitHub. Es lo que hace que tus cambios se vean en línea. Se usa para respaldar el trabajo y compartirlo con otras personas del equipo.
